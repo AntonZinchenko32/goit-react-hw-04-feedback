@@ -1,0 +1,12 @@
+.myButtons {
+    display: flex;
+}
+
+.myButton:not(:last-child) {
+    margin-right: 15px;
+}
+
+.myButton {
+    width: 150px;
+    height: 30px;
+}

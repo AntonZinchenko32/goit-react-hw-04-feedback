@@ -1,0 +1,12 @@
+.statList {
+    list-style: none;
+    padding: 0;
+}
+
+.label {
+    margin-right: 15px;
+}
+
+.value {
+    font-weight: bold;
+}
